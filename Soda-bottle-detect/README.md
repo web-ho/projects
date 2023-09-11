@@ -12,7 +12,8 @@
 # Installation
 First, clone the repo on your local machine. Then run-
 ```
-pip intall requirements.txt
+cd Soda-bottle-detect
+!pip intall requirements.txt
 ```
 
 Then simply run streamlit file from command line-
