@@ -1,11 +1,11 @@
 # About repo-
 
--media - sample images
--model - trained yolov8 model
--data_prep.iynb - code used to prepare data for training
--eda.ipynb - EDA to understand data 
--streamlit.py - python file to run streamlit web app
--utils.py - utility modules to convert data in required format
+- media - sample images
+- model - trained yolov8 model
+- data_prep.iynb - code used to prepare data for training
+- eda.ipynb - EDA to understand data 
+- streamlit.py - python file to run streamlit web app
+- utils.py - utility modules to convert data in required format
 
 
 
